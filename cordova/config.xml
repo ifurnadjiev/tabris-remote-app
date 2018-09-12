@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.eclipsesource.tabris.remoteLauncher" version="0.1.0">
+
+  <name>Tabris for RAP</name>
+  <description>
+    Tabris for RAP Developer App
+  </description>
+  <author email="info@tabris.com">
+    EclipseSource Inc.
+  </author>
+
+  <preference name="EnableDeveloperConsole" value="true"/>
+
+  <plugin name="cordova-plugin-network-information" spec="~2.0.1" />  
+  <plugin name="cordova-plugin-geolocation" spec="~4.0.1" />
+  <plugin name="tabris-plugin-camera" spec="https://github.com/eclipsesource/tabris-plugin-camera.git" />
+  <plugin name="tabris-plugin-barcode-scanner" spec="https://github.com/eclipsesource/tabris-plugin-barcode-scanner.git" />
+  <plugin name="tabris-plugin-firebase" spec="https://github.com/eclipsesource/tabris-plugin-firebase.git#9cb3aa24410834137fcba500d7660e647c744cb7" />
+  
+  <platform name="ios">
+    <resource-file src="GoogleService-Info.plist" />
+  </platform>
+
+</widget>

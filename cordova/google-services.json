@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "88412626978",
+    "firebase_url": "https://tabris-cloud-push.firebaseio.com",
+    "project_id": "tabris-cloud-push",
+    "storage_bucket": "tabris-cloud-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88412626978:android:59f46a6e5589ee39",
+        "android_client_info": {
+          "package_name": "com.eclipsesource.tabris.remoteLauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88412626978-mmutuk85icvjl6mu9jv205om2lbklbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQi57DTUj81KkcDJbcmMmF1i93lDQgOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

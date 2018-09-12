@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>88412626978-64hq5i489c0dicbau79t1i24biagekbh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.88412626978-64hq5i489c0dicbau79t1i24biagekbh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMwTc8ALVW4BARkF9qYW4E9FRlvJA3t1E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>88412626978</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eclipsesource.tabris.remoteLauncher</string>
+	<key>PROJECT_ID</key>
+	<string>tabris-cloud-push</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tabris-cloud-push.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:88412626978:ios:59f46a6e5589ee39</string>
+	<key>DATABASE_URL</key>
+	<string>https://tabris-cloud-push.firebaseio.com</string>
+</dict>
+</plist>
