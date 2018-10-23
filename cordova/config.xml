@@ -9,6 +9,8 @@
     EclipseSource Inc.
   </author>
 
+  <access origin="*" />
+  
   <preference name="EnableDeveloperConsole" value="true"/>
   <preference name="UseStrictSSL" value="false"/>
 
