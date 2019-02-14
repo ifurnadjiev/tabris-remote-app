@@ -12,8 +12,8 @@
     "serve": "tabris serve"
   },
   "dependencies": {
-    "tabris": "nightly-2.x",
-    "tabris-js-remote": "^3.6.0-beta1-nightly.135",
+    "tabris": "^2.7.0",
+    "tabris-js-remote": "^3.6.0",
     "tabris-windows-pdf-widget": "^0.6.0-dev.10"
   },
   "devDependencies": {
