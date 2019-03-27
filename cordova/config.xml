@@ -22,7 +22,7 @@
   <plugin name="cordova-plugin-customurlscheme" spec="4.3.0">
     <variable name="URL_SCHEME" value="tabrisremoteapp" />
   </plugin>
-  <plugin name="tabris-plugin-launchmonitor" spec="https://github.com/eclipsesource/tabris-plugin-launchmonitor.git#9283ba1fed698f49a527411e389e8e8c4a8b75d9" />
+  <plugin name="tabris-plugin-launchmonitor" spec="https://github.com/eclipsesource/tabris-plugin-launchmonitor.git#77757fa6c4fa40cb92fa6e60e1652f76c6a33a5a" />
   
   <platform name="ios">
     <resource-file src="GoogleService-Info.plist" />
