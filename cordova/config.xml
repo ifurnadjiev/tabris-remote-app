@@ -19,6 +19,10 @@
   <plugin name="tabris-plugin-camera" spec="https://github.com/eclipsesource/tabris-plugin-camera.git" />
   <plugin name="tabris-plugin-barcode-scanner" spec="https://github.com/eclipsesource/tabris-plugin-barcode-scanner.git#8de9218216e67e47777da42ae3ba804a0d3c6e17" />
   <plugin name="tabris-plugin-firebase" spec="https://github.com/eclipsesource/tabris-plugin-firebase.git#d543b7a01c934bd7739f91f0af78550a77d8dd37" />
+  <plugin name="cordova-plugin-customurlscheme" spec="4.3.0">
+    <variable name="URL_SCHEME" value="tabrisremoteapp" />
+  </plugin>
+  <plugin name="tabris-plugin-launchmonitor" spec="https://github.com/eclipsesource/tabris-plugin-launchmonitor.git#9283ba1fed698f49a527411e389e8e8c4a8b75d9" />
   
   <platform name="ios">
     <resource-file src="GoogleService-Info.plist" />
