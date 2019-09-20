@@ -24,6 +24,10 @@
   </plugin>
   <plugin name="tabris-plugin-launchmonitor" spec="https://github.com/eclipsesource/tabris-plugin-launchmonitor.git#77757fa6c4fa40cb92fa6e60e1652f76c6a33a5a" />
   
+  <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='MainActivity']" mode="merge">
+    <activity android:windowSoftInputMode="stateAlwaysHidden" />
+  </edit-config>
+
   <platform name="ios">
     <resource-file src="GoogleService-Info.plist" />
   </platform>
